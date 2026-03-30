@@ -1,5 +1,5 @@
 # CS3200_Project2
-In this practicum you will modify the database you built for Project 1 to adjust it to a document based database (Mongo). You can reuse the project description, adjusting the logical model and choosing the main collections to use. Finally you will modify the implementation from Project 1 to make it work with MongoDB and Node.
+In this practicum we will modify the database we built for Project 1 to adjust it to a document based database (Mongo). Finally I will modify the implementation from Project 1 to make it work with MongoDB and Node.
 
 
 ## 1. (5 pts) Provide the problem requirements and the conceptual model in UML for your project. You can reuse the ones made in Project 1.
@@ -29,10 +29,29 @@ In this practicum you will modify the database you built for Project 1 to adjust
 
 ## 4.  (15 pts) Populate the tables with test data. You can use tools such as https://www.mockaroo.com/schemasLinks to an external site. or  https://www.generatedata.com/Links to an external site.. You can export the sample data to JSON and then use mongoimport or Mongo Compass to populate your tables. Include in your repository a dump file that can be use to regenerate your database, and the instructions on how to initialize it. You should share the instructions on how to import these data into tables by providing the data in JSON format and instructions on how to load it using mongoImport or mongo Compass
 
-## Database Initialization
 
-### Import from JSON files
+### Data Files
+- [`data/artists.json`](data/artists.json)
+- [`data/shows.json`](data/shows.json)
+- [`data/users.json`](data/users.json)
+- [`seed.js`](seed.js)
+
+
+### Option 3: seed script
+
+docker exec -i mongodb mongosh showtracker < seed.js
+
+### Option 2: Import from JSON files
 mongoimport --db showtracker --collection artists --file artists.json --jsonArray
 mongoimport --db showtracker --collection shows --file shows.json --jsonArray
 mongoimport --db showtracker --collection users --file users.json --jsonArray
 
+
+## 5. (30 pts) Define and execute at least five queries that show your database. At least one query must use the aggregation framework https://docs.mongodb.com/manual/aggregation/Links to an external site., one must contain a complex search criterion (more than one expression with logical connectors like $or), one should be counting documents for an specific user, and one must be updating a document based on a query parameter (e.g. flipping on or off a boolean attribute for a document, such as enabling/disabling a song)
+
+### Queries
+- [`Queries/Query1.js`](Queries/Query1.js) — Aggregation: Average rating per venue
+- [`Queries/Query2.js`](Queries/Query2.js) — Complex search: Rock/Indie shows under $60
+- [`Queries/Query3.js`](Queries/Query3.js) — Count: Shows attended by ethan07
+- [`Queries/Query4.js`](Queries/Query4.js) — Update: Toggle active status for Rock artists
+- [`Queries/Query5.js`](Queries/Query5.js) — Top 5 most attended shows with $lookup

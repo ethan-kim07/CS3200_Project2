@@ -1,0 +1,24 @@
+{
+  "name": "cs3200_project2",
+  "version": "1.0.0",
+  "description": "In this practicum we will modify the database we built for Project 1 to adjust it to a document based database (Mongo). Finally I will modify the implementation from Project 1 to make it work with MongoDB and Node.",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethan-kim07/CS3200_Project2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ethan-kim07/CS3200_Project2/issues"
+  },
+  "homepage": "https://github.com/ethan-kim07/CS3200_Project2#readme",
+  "dependencies": {
+    "mongodb": "^7.1.1"
+  }
+}
