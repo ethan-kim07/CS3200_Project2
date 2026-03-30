@@ -1,0 +1,800 @@
+[{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2939"
+  },
+  "date": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "ticketPrice": 55,
+  "genre": "Rock",
+  "venue": {
+    "name": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 20000,
+    "genreTags": [
+      "Rock",
+      "Pop",
+      "Hip-Hop"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Someday",
+      "artistName": "The Strokes"
+    },
+    {
+      "order": 2,
+      "songTitle": "Reptilia",
+      "artistName": "The Strokes"
+    },
+    {
+      "order": 3,
+      "songTitle": "Last Nite",
+      "artistName": "The Strokes"
+    },
+    {
+      "order": 4,
+      "songTitle": "Is This It",
+      "artistName": "The Strokes"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c292f"
+      },
+      "name": "The Strokes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c293a"
+  },
+  "date": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "ticketPrice": 40,
+  "genre": "Indie",
+  "venue": {
+    "name": "The Bowery Ballroom",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 575,
+    "genreTags": [
+      "Indie",
+      "Rock",
+      "Punk"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Motion Sickness",
+      "artistName": "Phoebe Bridgers"
+    },
+    {
+      "order": 2,
+      "songTitle": "Kyoto",
+      "artistName": "Phoebe Bridgers"
+    },
+    {
+      "order": 3,
+      "songTitle": "Garden Song",
+      "artistName": "Phoebe Bridgers"
+    },
+    {
+      "order": 4,
+      "songTitle": "I Know the End",
+      "artistName": "Phoebe Bridgers"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2930"
+      },
+      "name": "Phoebe Bridgers"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c293b"
+  },
+  "date": {
+    "$date": "2025-03-08T00:00:00.000Z"
+  },
+  "ticketPrice": 85,
+  "genre": "Indie",
+  "venue": {
+    "name": "Forest Hills Stadium",
+    "city": "Queens",
+    "state": "NY",
+    "capacity": 14000,
+    "genreTags": [
+      "Indie",
+      "Alternative",
+      "Rock"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Motion Sickness",
+      "artistName": "Phoebe Bridgers"
+    },
+    {
+      "order": 2,
+      "songTitle": "Kyoto",
+      "artistName": "Phoebe Bridgers"
+    },
+    {
+      "order": 3,
+      "songTitle": "Bags",
+      "artistName": "Clairo"
+    },
+    {
+      "order": 4,
+      "songTitle": "Sofia",
+      "artistName": "Clairo"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2930"
+      },
+      "name": "Phoebe Bridgers"
+    },
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2931"
+      },
+      "name": "Clairo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c293c"
+  },
+  "date": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "ticketPrice": 95,
+  "genre": "Hip-Hop",
+  "venue": {
+    "name": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 20000,
+    "genreTags": [
+      "Rock",
+      "Pop",
+      "Hip-Hop"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "EARFQUAKE",
+      "artistName": "Tyler, the Creator"
+    },
+    {
+      "order": 2,
+      "songTitle": "See You Again",
+      "artistName": "Tyler, the Creator"
+    },
+    {
+      "order": 3,
+      "songTitle": "NEW MAGIC WAND",
+      "artistName": "Tyler, the Creator"
+    },
+    {
+      "order": 4,
+      "songTitle": "RUNNING OUT OF TIME",
+      "artistName": "Tyler, the Creator"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2932"
+      },
+      "name": "Tyler, the Creator"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c293d"
+  },
+  "date": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "ticketPrice": 70,
+  "genre": "Alternative",
+  "venue": {
+    "name": "The Beacon Theatre",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 2894,
+    "genreTags": [
+      "Rock",
+      "Alternative",
+      "Folk"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Creep",
+      "artistName": "Radiohead"
+    },
+    {
+      "order": 2,
+      "songTitle": "Karma Police",
+      "artistName": "Radiohead"
+    },
+    {
+      "order": 3,
+      "songTitle": "No Surprises",
+      "artistName": "Radiohead"
+    },
+    {
+      "order": 4,
+      "songTitle": "Everything in Its Right Place",
+      "artistName": "Radiohead"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2933"
+      },
+      "name": "Radiohead"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c293e"
+  },
+  "date": {
+    "$date": "2025-04-19T00:00:00.000Z"
+  },
+  "ticketPrice": 60,
+  "genre": "R&B",
+  "venue": {
+    "name": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 6015,
+    "genreTags": [
+      "Pop",
+      "R&B",
+      "Jazz"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Kill Bill",
+      "artistName": "SZA"
+    },
+    {
+      "order": 2,
+      "songTitle": "Good Days",
+      "artistName": "SZA"
+    },
+    {
+      "order": 3,
+      "songTitle": "Kiss Me More",
+      "artistName": "SZA"
+    },
+    {
+      "order": 4,
+      "songTitle": "Snooze",
+      "artistName": "SZA"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2934"
+      },
+      "name": "SZA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c293f"
+  },
+  "date": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "ticketPrice": 75,
+  "genre": "Psychedelic Rock",
+  "venue": {
+    "name": "Brooklyn Steel",
+    "city": "Brooklyn",
+    "state": "NY",
+    "capacity": 1800,
+    "genreTags": [
+      "Indie",
+      "Electronic",
+      "Hip-Hop"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "The Less I Know the Better",
+      "artistName": "Tame Impala"
+    },
+    {
+      "order": 2,
+      "songTitle": "Let It Happen",
+      "artistName": "Tame Impala"
+    },
+    {
+      "order": 3,
+      "songTitle": "Feels Like We Only Go Backwards",
+      "artistName": "Tame Impala"
+    },
+    {
+      "order": 4,
+      "songTitle": "Borderline",
+      "artistName": "Tame Impala"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2935"
+      },
+      "name": "Tame Impala"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2940"
+  },
+  "date": {
+    "$date": "2025-05-31T00:00:00.000Z"
+  },
+  "ticketPrice": 110,
+  "genre": "Pop",
+  "venue": {
+    "name": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 20000,
+    "genreTags": [
+      "Rock",
+      "Pop",
+      "Hip-Hop"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "bad guy",
+      "artistName": "Billie Eilish"
+    },
+    {
+      "order": 2,
+      "songTitle": "Happier Than Ever",
+      "artistName": "Billie Eilish"
+    },
+    {
+      "order": 3,
+      "songTitle": "everything i wanted",
+      "artistName": "Billie Eilish"
+    },
+    {
+      "order": 4,
+      "songTitle": "ocean eyes",
+      "artistName": "Billie Eilish"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2936"
+      },
+      "name": "Billie Eilish"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2941"
+  },
+  "date": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "ticketPrice": 35,
+  "genre": "Indie Rock",
+  "venue": {
+    "name": "Webster Hall",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 1500,
+    "genreTags": [
+      "Indie",
+      "Pop",
+      "Electronic"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Chamber of Reflection",
+      "artistName": "Mac DeMarco"
+    },
+    {
+      "order": 2,
+      "songTitle": "My Old Man",
+      "artistName": "Mac DeMarco"
+    },
+    {
+      "order": 3,
+      "songTitle": "Freaking Out the Neighborhood",
+      "artistName": "Mac DeMarco"
+    },
+    {
+      "order": 4,
+      "songTitle": "Still Beating",
+      "artistName": "Mac DeMarco"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2937"
+      },
+      "name": "Mac DeMarco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2942"
+  },
+  "date": {
+    "$date": "2025-07-04T00:00:00.000Z"
+  },
+  "ticketPrice": 120,
+  "genre": "Hip-Hop",
+  "venue": {
+    "name": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 20000,
+    "genreTags": [
+      "Rock",
+      "Pop",
+      "Hip-Hop"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "HUMBLE.",
+      "artistName": "Kendrick Lamar"
+    },
+    {
+      "order": 2,
+      "songTitle": "Alright",
+      "artistName": "Kendrick Lamar"
+    },
+    {
+      "order": 3,
+      "songTitle": "DNA.",
+      "artistName": "Kendrick Lamar"
+    },
+    {
+      "order": 4,
+      "songTitle": "EARFQUAKE",
+      "artistName": "Tyler, the Creator"
+    },
+    {
+      "order": 5,
+      "songTitle": "See You Again",
+      "artistName": "Tyler, the Creator"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2938"
+      },
+      "name": "Kendrick Lamar"
+    },
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2932"
+      },
+      "name": "Tyler, the Creator"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2943"
+  },
+  "date": {
+    "$date": "2025-07-20T00:00:00.000Z"
+  },
+  "ticketPrice": 45,
+  "genre": "Indie Pop",
+  "venue": {
+    "name": "The Bowery Ballroom",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 575,
+    "genreTags": [
+      "Indie",
+      "Rock",
+      "Punk"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Bags",
+      "artistName": "Clairo"
+    },
+    {
+      "order": 2,
+      "songTitle": "Sofia",
+      "artistName": "Clairo"
+    },
+    {
+      "order": 3,
+      "songTitle": "Amoeba",
+      "artistName": "Clairo"
+    },
+    {
+      "order": 4,
+      "songTitle": "Pretty Girl",
+      "artistName": "Clairo"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2931"
+      },
+      "name": "Clairo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2944"
+  },
+  "date": {
+    "$date": "2025-08-09T00:00:00.000Z"
+  },
+  "ticketPrice": 65,
+  "genre": "Alternative",
+  "venue": {
+    "name": "Terminal 5",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 3000,
+    "genreTags": [
+      "Electronic",
+      "Hip-Hop",
+      "Rock"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Creep",
+      "artistName": "Radiohead"
+    },
+    {
+      "order": 2,
+      "songTitle": "Karma Police",
+      "artistName": "Radiohead"
+    },
+    {
+      "order": 3,
+      "songTitle": "The Less I Know the Better",
+      "artistName": "Tame Impala"
+    },
+    {
+      "order": 4,
+      "songTitle": "Let It Happen",
+      "artistName": "Tame Impala"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2933"
+      },
+      "name": "Radiohead"
+    },
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2935"
+      },
+      "name": "Tame Impala"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2945"
+  },
+  "date": {
+    "$date": "2025-08-30T00:00:00.000Z"
+  },
+  "ticketPrice": 50,
+  "genre": "R&B",
+  "venue": {
+    "name": "Brooklyn Steel",
+    "city": "Brooklyn",
+    "state": "NY",
+    "capacity": 1800,
+    "genreTags": [
+      "Indie",
+      "Electronic",
+      "Hip-Hop"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Kill Bill",
+      "artistName": "SZA"
+    },
+    {
+      "order": 2,
+      "songTitle": "Good Days",
+      "artistName": "SZA"
+    },
+    {
+      "order": 3,
+      "songTitle": "Kiss Me More",
+      "artistName": "SZA"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2934"
+      },
+      "name": "SZA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2946"
+  },
+  "date": {
+    "$date": "2025-09-14T00:00:00.000Z"
+  },
+  "ticketPrice": 90,
+  "genre": "Rock",
+  "venue": {
+    "name": "The Beacon Theatre",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 2894,
+    "genreTags": [
+      "Rock",
+      "Alternative",
+      "Folk"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "Someday",
+      "artistName": "The Strokes"
+    },
+    {
+      "order": 2,
+      "songTitle": "Reptilia",
+      "artistName": "The Strokes"
+    },
+    {
+      "order": 3,
+      "songTitle": "Last Nite",
+      "artistName": "The Strokes"
+    },
+    {
+      "order": 4,
+      "songTitle": "Chamber of Reflection",
+      "artistName": "Mac DeMarco"
+    },
+    {
+      "order": 5,
+      "songTitle": "My Old Man",
+      "artistName": "Mac DeMarco"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c292f"
+      },
+      "name": "The Strokes"
+    },
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2937"
+      },
+      "name": "Mac DeMarco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2947"
+  },
+  "date": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "ticketPrice": 100,
+  "genre": "Pop",
+  "venue": {
+    "name": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "capacity": 6015,
+    "genreTags": [
+      "Pop",
+      "R&B",
+      "Jazz"
+    ]
+  },
+  "setlist": [
+    {
+      "order": 1,
+      "songTitle": "bad guy",
+      "artistName": "Billie Eilish"
+    },
+    {
+      "order": 2,
+      "songTitle": "Happier Than Ever",
+      "artistName": "Billie Eilish"
+    },
+    {
+      "order": 3,
+      "songTitle": "Kill Bill",
+      "artistName": "SZA"
+    },
+    {
+      "order": 4,
+      "songTitle": "Good Days",
+      "artistName": "SZA"
+    }
+  ],
+  "featuredArtists": [
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2936"
+      },
+      "name": "Billie Eilish"
+    },
+    {
+      "artistId": {
+        "$oid": "69c9fc9ae64cfb49f17c2934"
+      },
+      "name": "SZA"
+    }
+  ]
+}]

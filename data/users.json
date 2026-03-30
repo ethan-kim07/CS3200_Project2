@@ -1,0 +1,506 @@
+[{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2948"
+  },
+  "username": "ethan07",
+  "email": "ethan@example.com",
+  "password": "hashed_pw_001",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2939"
+      },
+      "date": {
+        "$date": "2025-01-18T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "Incredible energy. The Strokes played all the hits."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293b"
+      },
+      "date": {
+        "$date": "2025-03-08T00:00:00.000Z"
+      },
+      "venueName": "Forest Hills Stadium",
+      "rating": 4,
+      "review": "Great lineup, but the sound mixing could have been better."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293d"
+      },
+      "date": {
+        "$date": "2025-04-05T00:00:00.000Z"
+      },
+      "venueName": "The Beacon Theatre",
+      "rating": 5,
+      "review": "Radiohead never disappoints. Phenomenal show."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2942"
+      },
+      "date": {
+        "$date": "2025-07-04T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "Kendrick and Tyler together was unreal."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2949"
+  },
+  "username": "concertfan99",
+  "email": "fan99@example.com",
+  "password": "hashed_pw_002",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293a"
+      },
+      "date": {
+        "$date": "2025-02-14T00:00:00.000Z"
+      },
+      "venueName": "The Bowery Ballroom",
+      "rating": 4,
+      "review": "The artist really knows how to work a crowd."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293e"
+      },
+      "date": {
+        "$date": "2025-04-19T00:00:00.000Z"
+      },
+      "venueName": "Radio City Music Hall",
+      "rating": 5,
+      "review": "The artist really knows how to work a crowd."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2940"
+      },
+      "date": {
+        "$date": "2025-05-31T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 3,
+      "review": "Decent show, nothing too special."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c294a"
+  },
+  "username": "musiclover22",
+  "email": "musiclover22@example.com",
+  "password": "hashed_pw_003",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293c"
+      },
+      "date": {
+        "$date": "2025-03-22T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "Solid performance but the venue was too crowded."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293f"
+      },
+      "date": {
+        "$date": "2025-05-10T00:00:00.000Z"
+      },
+      "venueName": "Brooklyn Steel",
+      "rating": 4,
+      "review": "Fun experience, though the opening act was weak."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2941"
+      },
+      "date": {
+        "$date": "2025-06-15T00:00:00.000Z"
+      },
+      "venueName": "Webster Hall",
+      "rating": 4,
+      "review": "The artist really knows how to work a crowd."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2943"
+      },
+      "date": {
+        "$date": "2025-07-20T00:00:00.000Z"
+      },
+      "venueName": "The Bowery Ballroom",
+      "rating": 3,
+      "review": "A bit overpriced for what it was."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2947"
+      },
+      "date": {
+        "$date": "2025-10-01T00:00:00.000Z"
+      },
+      "venueName": "Radio City Music Hall",
+      "rating": 5,
+      "review": "Incredible night, every song was a hit."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c294b"
+  },
+  "username": "indiekid",
+  "email": "indiekid@example.com",
+  "password": "hashed_pw_004",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293a"
+      },
+      "date": {
+        "$date": "2025-02-14T00:00:00.000Z"
+      },
+      "venueName": "The Bowery Ballroom",
+      "rating": 5,
+      "review": "Decent show, nothing too special."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293b"
+      },
+      "date": {
+        "$date": "2025-03-08T00:00:00.000Z"
+      },
+      "venueName": "Forest Hills Stadium",
+      "rating": 5,
+      "review": "The artist really knows how to work a crowd."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2941"
+      },
+      "date": {
+        "$date": "2025-06-15T00:00:00.000Z"
+      },
+      "venueName": "Webster Hall",
+      "rating": 4,
+      "review": "Incredible night, every song was a hit."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2943"
+      },
+      "date": {
+        "$date": "2025-07-20T00:00:00.000Z"
+      },
+      "venueName": "The Bowery Ballroom",
+      "rating": 5,
+      "review": "Fun experience, though the opening act was weak."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c294c"
+  },
+  "username": "bassguy",
+  "email": "bassguy@example.com",
+  "password": "hashed_pw_005",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2939"
+      },
+      "date": {
+        "$date": "2025-01-18T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 4,
+      "review": "The acoustics in this venue are perfect."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293d"
+      },
+      "date": {
+        "$date": "2025-04-05T00:00:00.000Z"
+      },
+      "venueName": "The Beacon Theatre",
+      "rating": 5,
+      "review": "Absolutely electric atmosphere."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2944"
+      },
+      "date": {
+        "$date": "2025-08-09T00:00:00.000Z"
+      },
+      "venueName": "Terminal 5",
+      "rating": 4,
+      "review": "The acoustics in this venue are perfect."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2946"
+      },
+      "date": {
+        "$date": "2025-09-14T00:00:00.000Z"
+      },
+      "venueName": "The Beacon Theatre",
+      "rating": 5,
+      "review": "Would have liked a longer setlist."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c294d"
+  },
+  "username": "showhopper",
+  "email": "showhopper@example.com",
+  "password": "hashed_pw_006",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2939"
+      },
+      "date": {
+        "$date": "2025-01-18T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 3,
+      "review": "A bit overpriced for what it was."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293a"
+      },
+      "date": {
+        "$date": "2025-02-14T00:00:00.000Z"
+      },
+      "venueName": "The Bowery Ballroom",
+      "rating": 4,
+      "review": "Incredible night, every song was a hit."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293c"
+      },
+      "date": {
+        "$date": "2025-03-22T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "The acoustics in this venue are perfect."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293e"
+      },
+      "date": {
+        "$date": "2025-04-19T00:00:00.000Z"
+      },
+      "venueName": "Radio City Music Hall",
+      "rating": 4,
+      "review": "A bit overpriced for what it was."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2940"
+      },
+      "date": {
+        "$date": "2025-05-31T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "Absolutely electric atmosphere."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2942"
+      },
+      "date": {
+        "$date": "2025-07-04T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "Unforgettable night with friends."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2945"
+      },
+      "date": {
+        "$date": "2025-08-30T00:00:00.000Z"
+      },
+      "venueName": "Brooklyn Steel",
+      "rating": 3,
+      "review": "Great energy from the crowd and the performers."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c294e"
+  },
+  "username": "nycsounds",
+  "email": "nycsounds@example.com",
+  "password": "hashed_pw_007",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293e"
+      },
+      "date": {
+        "$date": "2025-04-19T00:00:00.000Z"
+      },
+      "venueName": "Radio City Music Hall",
+      "rating": 5,
+      "review": "A bit overpriced for what it was."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2947"
+      },
+      "date": {
+        "$date": "2025-10-01T00:00:00.000Z"
+      },
+      "venueName": "Radio City Music Hall",
+      "rating": 4,
+      "review": "Fun experience, though the opening act was weak."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c294f"
+  },
+  "username": "vibesonly",
+  "email": "vibesonly@example.com",
+  "password": "hashed_pw_008",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293f"
+      },
+      "date": {
+        "$date": "2025-05-10T00:00:00.000Z"
+      },
+      "venueName": "Brooklyn Steel",
+      "rating": 5,
+      "review": "Would have liked a longer setlist."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2944"
+      },
+      "date": {
+        "$date": "2025-08-09T00:00:00.000Z"
+      },
+      "venueName": "Terminal 5",
+      "rating": 3,
+      "review": "Absolutely electric atmosphere."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2945"
+      },
+      "date": {
+        "$date": "2025-08-30T00:00:00.000Z"
+      },
+      "venueName": "Brooklyn Steel",
+      "rating": 4,
+      "review": "Incredible night, every song was a hit."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2950"
+  },
+  "username": "newuser2025",
+  "email": "newuser@example.com",
+  "password": "hashed_pw_009",
+  "attendance": []
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2951"
+  },
+  "username": "livemusic_addict",
+  "email": "livemusic@example.com",
+  "password": "hashed_pw_010",
+  "attendance": [
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c293b"
+      },
+      "date": {
+        "$date": "2025-03-08T00:00:00.000Z"
+      },
+      "venueName": "Forest Hills Stadium",
+      "rating": 4,
+      "review": "Exceeded my expectations in every way."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2940"
+      },
+      "date": {
+        "$date": "2025-05-31T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "One of the best concerts I've ever been to."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2942"
+      },
+      "date": {
+        "$date": "2025-07-04T00:00:00.000Z"
+      },
+      "venueName": "Madison Square Garden",
+      "rating": 5,
+      "review": "Good setlist but the sound quality could be better."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2946"
+      },
+      "date": {
+        "$date": "2025-09-14T00:00:00.000Z"
+      },
+      "venueName": "The Beacon Theatre",
+      "rating": 4,
+      "review": "Absolutely electric atmosphere."
+    },
+    {
+      "showId": {
+        "$oid": "69c9fc9ae64cfb49f17c2947"
+      },
+      "date": {
+        "$date": "2025-10-01T00:00:00.000Z"
+      },
+      "venueName": "Radio City Music Hall",
+      "rating": 5,
+      "review": "Decent show, nothing too special."
+    }
+  ]
+}]

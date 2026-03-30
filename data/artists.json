@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c292f"
+  },
+  "name": "The Strokes",
+  "genre": "Rock",
+  "biography": "American rock band formed in New York City in 1998.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2907"
+      },
+      "title": "Someday"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2908"
+      },
+      "title": "Reptilia"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2909"
+      },
+      "title": "Last Nite"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c290a"
+      },
+      "title": "Is This It"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2930"
+  },
+  "name": "Phoebe Bridgers",
+  "genre": "Indie",
+  "biography": "American singer-songwriter known for melancholic indie rock.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c290b"
+      },
+      "title": "Motion Sickness"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c290c"
+      },
+      "title": "Kyoto"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c290d"
+      },
+      "title": "Garden Song"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c290e"
+      },
+      "title": "I Know the End"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2931"
+  },
+  "name": "Clairo",
+  "genre": "Indie Pop",
+  "biography": "American singer-songwriter known for bedroom pop and indie music.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c290f"
+      },
+      "title": "Bags"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2910"
+      },
+      "title": "Sofia"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2911"
+      },
+      "title": "Amoeba"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2912"
+      },
+      "title": "Pretty Girl"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2932"
+  },
+  "name": "Tyler, the Creator",
+  "genre": "Hip-Hop",
+  "biography": "American rapper, singer, and record producer from Los Angeles.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2913"
+      },
+      "title": "EARFQUAKE"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2914"
+      },
+      "title": "See You Again"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2915"
+      },
+      "title": "NEW MAGIC WAND"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2916"
+      },
+      "title": "RUNNING OUT OF TIME"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2933"
+  },
+  "name": "Radiohead",
+  "genre": "Alternative",
+  "biography": "English rock band formed in Oxfordshire in 1985.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2917"
+      },
+      "title": "Creep"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2918"
+      },
+      "title": "Karma Police"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2919"
+      },
+      "title": "No Surprises"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c291a"
+      },
+      "title": "Everything in Its Right Place"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2934"
+  },
+  "name": "SZA",
+  "genre": "R&B",
+  "biography": "American singer-songwriter known for neo-soul and R&B.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c291b"
+      },
+      "title": "Kill Bill"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c291c"
+      },
+      "title": "Good Days"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c291d"
+      },
+      "title": "Kiss Me More"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c291e"
+      },
+      "title": "Snooze"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2935"
+  },
+  "name": "Tame Impala",
+  "genre": "Psychedelic Rock",
+  "biography": "Australian psychedelic music project led by Kevin Parker.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c291f"
+      },
+      "title": "The Less I Know the Better"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2920"
+      },
+      "title": "Let It Happen"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2921"
+      },
+      "title": "Feels Like We Only Go Backwards"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2922"
+      },
+      "title": "Borderline"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2936"
+  },
+  "name": "Billie Eilish",
+  "genre": "Pop",
+  "biography": "American singer-songwriter who rose to fame as a teenager.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2923"
+      },
+      "title": "bad guy"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2924"
+      },
+      "title": "Happier Than Ever"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2925"
+      },
+      "title": "everything i wanted"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2926"
+      },
+      "title": "ocean eyes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2937"
+  },
+  "name": "Mac DeMarco",
+  "genre": "Indie Rock",
+  "biography": "Canadian singer-songwriter known for laid-back jangle pop.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2927"
+      },
+      "title": "Chamber of Reflection"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2928"
+      },
+      "title": "My Old Man"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c2929"
+      },
+      "title": "Freaking Out the Neighborhood"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c292a"
+      },
+      "title": "Still Beating"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c9fc9ae64cfb49f17c2938"
+  },
+  "name": "Kendrick Lamar",
+  "genre": "Hip-Hop",
+  "biography": "American rapper and songwriter from Compton, California.",
+  "songs": [
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c292b"
+      },
+      "title": "HUMBLE."
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c292c"
+      },
+      "title": "Alright"
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c292d"
+      },
+      "title": "DNA."
+    },
+    {
+      "songId": {
+        "$oid": "69c9fc9ae64cfb49f17c292e"
+      },
+      "title": "Money Trees"
+    }
+  ]
+}]
